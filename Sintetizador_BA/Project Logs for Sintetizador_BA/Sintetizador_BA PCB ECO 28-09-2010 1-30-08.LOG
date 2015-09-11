@@ -1,0 +1,30 @@
+Added Component: Designator=U3(SOG28)
+Added Pin To Net: NetName=FIN Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=VCC Pin=U3-3
+Added Pin To Net: NetName=RA0 Pin=U3-4
+Added Pin To Net: NetName=RA1 Pin=U3-5
+Added Pin To Net: NetName=RA2 Pin=U3-6
+Added Pin To Net: NetName=NetR10_1 Pin=U3-7
+Added Pin To Net: NetName=NetR12_1 Pin=U3-8
+Added Pin To Net: NetName=MC Pin=U3-9
+Added Pin To Net: NetName=A5 Pin=U3-10
+Added Pin To Net: NetName=N0 Pin=U3-11
+Added Pin To Net: NetName=N1 Pin=U3-12
+Added Pin To Net: NetName=N2 Pin=U3-13
+Added Pin To Net: NetName=N3 Pin=U3-14
+Added Pin To Net: NetName=N4 Pin=U3-15
+Added Pin To Net: NetName=N5 Pin=U3-16
+Added Pin To Net: NetName=N6 Pin=U3-17
+Added Pin To Net: NetName=N7 Pin=U3-18
+Added Pin To Net: NetName=N8 Pin=U3-19
+Added Pin To Net: NetName=N9 Pin=U3-20
+Added Pin To Net: NetName=A1 Pin=U3-21
+Added Pin To Net: NetName=A2 Pin=U3-22
+Added Pin To Net: NetName=A0 Pin=U3-23
+Added Pin To Net: NetName=A3 Pin=U3-24
+Added Pin To Net: NetName=A4 Pin=U3-25
+Added Pin To Net: NetName=NetC17_2 Pin=U3-26
+Added Pin To Net: NetName=NetC18_2 Pin=U3-27
+Added Pin To Net: NetName=LD Pin=U3-28
+Added Member To Class: ClassName=Sintetizador_BA Member=Component U3 PLL

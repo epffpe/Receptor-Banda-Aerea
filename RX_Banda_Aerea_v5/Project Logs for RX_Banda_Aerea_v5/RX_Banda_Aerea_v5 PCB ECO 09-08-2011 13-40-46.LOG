@@ -1,0 +1,392 @@
+Added Component: Designator=C1(0805_CAP)
+Added Component: Designator=C2(0805_CAP)
+Added Component: Designator=C3(0805_CAP)
+Added Component: Designator=C4(0805_CAP)
+Added Component: Designator=C5(0805_CAP)
+Added Component: Designator=C6(0805_CAP)
+Added Component: Designator=C7(0805_CAP)
+Added Component: Designator=C8(0805_CAP)
+Added Component: Designator=C9(0805_CAP)
+Added Component: Designator=C10(0805_CAP)
+Added Component: Designator=C11(0805_CAP)
+Added Component: Designator=C12(0805_CAP)
+Added Component: Designator=C13(0805_CAP)
+Added Component: Designator=C14(0805_CAP)
+Added Component: Designator=C15(0805_CAP)
+Added Component: Designator=C16(0805_CAP)
+Added Component: Designator=C17(0805_CAP)
+Added Component: Designator=C18(0805_CAP)
+Added Component: Designator=C19(0805_CAP)
+Added Component: Designator=C20(0805_CAP)
+Added Component: Designator=C21(0805_CAP)
+Added Component: Designator=C22(0805_CAP)
+Added Component: Designator=C23(0805_CAP)
+Added Component: Designator=C24(0805_CAP)
+Added Component: Designator=C25(0805_CAP)
+Added Component: Designator=C26(0805_CAP)
+Added Component: Designator=C27(0805_CAP)
+Added Component: Designator=C28(0805_CAP)
+Added Component: Designator=C29(0805_CAP)
+Added Component: Designator=C30(0805_CAP)
+Added Component: Designator=C31(0805_CAP)
+Added Component: Designator=C32(0805_CAP)
+Added Component: Designator=C33(0805_CAP)
+Added Component: Designator=CF1(Filter_10_7)
+Added Component: Designator=CF2(Filter_10_7)
+Added Component: Designator=CF3(Filter_10_7)
+Added Component: Designator=D1(SOT323_N)
+Added Component: Designator=Ind1(NTH12_2)
+Added Component: Designator=Ind2(Ind_3mm)
+Added Component: Designator=L1(INDC3216AL)
+Added Component: Designator=L2(INDC3216AL)
+Added Component: Designator=L3(INDC3216AL)
+Added Component: Designator=L4(INDC3216AL)
+Added Component: Designator=P1(Header2Macho)
+Added Component: Designator=P2(Header2Hembra)
+Added Component: Designator=P3(SMAL_Antena)
+Added Component: Designator=P4(SMAL2)
+Added Component: Designator=Q1(SOT23)
+Added Component: Designator=Q2(SOT23)
+Added Component: Designator=Q3(SOT23)
+Added Component: Designator=Q4(SOT23)
+Added Component: Designator=Q5(SOT23)
+Added Component: Designator=Q6(SOT23)
+Added Component: Designator=R1(0805_RES)
+Added Component: Designator=R2(0805_RES)
+Added Component: Designator=R3(0805_RES)
+Added Component: Designator=R4(0805_RES)
+Added Component: Designator=R5(0805_RES)
+Added Component: Designator=R6(0805_RES)
+Added Component: Designator=R7(0805_RES)
+Added Component: Designator=R8(0805_RES)
+Added Component: Designator=R9(0805_RES)
+Added Component: Designator=R10(0805_RES)
+Added Component: Designator=R11(0805_RES)
+Added Component: Designator=R12(0805_RES)
+Added Component: Designator=R13(0805_RES)
+Added Component: Designator=R14(0805_RES)
+Added Component: Designator=R15(0805_RES)
+Added Component: Designator=R16(0805_RES)
+Added Component: Designator=R17(0805_RES)
+Added Component: Designator=R18(0805_RES)
+Added Component: Designator=R19(0805_RES)
+Added Component: Designator=R20(0805_RES)
+Added Component: Designator=R21(0805_RES)
+Added Component: Designator=R22(0805_RES)
+Added Component: Designator=R23(0805_RES)
+Added Component: Designator=R24(0805_RES)
+Added Component: Designator=R25(0805_RES)
+Added Component: Designator=R26(POT_SMD)
+Added Component: Designator=R27(0805_RES)
+Added Component: Designator=R28(0805_RES)
+Added Component: Designator=R29(0805_RES)
+Added Component: Designator=R30(0805_RES)
+Added Component: Designator=R31(0805_RES)
+Added Component: Designator=RF1(WW107)
+Added Component: Designator=T1(NTH12_V_3Ind_2)
+Added Component: Designator=U1(751-05_M)
+Added Component: Designator=U2(Z03A)
+Added Component: Designator=U3(SO-8_2)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=AUDIO Pin=C4-2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=VCC Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=NetC11_2 Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=VCC Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=VCC Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=VCC Pin=C15-2
+Added Pin To Net: NetName=NetC16_1 Pin=C16-1
+Added Pin To Net: NetName=RF_IN Pin=C16-2
+Added Pin To Net: NetName=NetC17_1 Pin=C17-1
+Added Pin To Net: NetName=NetC16_1 Pin=C17-2
+Added Pin To Net: NetName=NetC17_1 Pin=C18-1
+Added Pin To Net: NetName=NetC18_2 Pin=C18-2
+Added Pin To Net: NetName=NetC18_2 Pin=C19-1
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=RF_FILT Pin=C20-1
+Added Pin To Net: NetName=NetC19_2 Pin=C20-2
+Added Pin To Net: NetName=NetC16_1 Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=NetC18_2 Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=NetC17_1 Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=NetC17_1 Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=NetC18_2 Pin=C25-2
+Added Pin To Net: NetName=NetC19_2 Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C26-2
+Added Pin To Net: NetName=NetC27_1 Pin=C27-1
+Added Pin To Net: NetName=NetC27_2 Pin=C27-2
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=NetC28_2 Pin=C28-2
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=VCC Pin=C29-2
+Added Pin To Net: NetName=NetC30_1 Pin=C30-1
+Added Pin To Net: NetName=NetC30_2 Pin=C30-2
+Added Pin To Net: NetName=NetC31_1 Pin=C31-1
+Added Pin To Net: NetName=NetC31_2 Pin=C31-2
+Added Pin To Net: NetName=NetC31_2 Pin=C32-1
+Added Pin To Net: NetName=NetC32_2 Pin=C32-2
+Added Pin To Net: NetName=NetC32_2 Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C33-2
+Added Pin To Net: NetName=NetCF1_1 Pin=CF1-1
+Added Pin To Net: NetName=GND Pin=CF1-2
+Added Pin To Net: NetName=NetCF1_3 Pin=CF1-3
+Added Pin To Net: NetName=NetCF2_1 Pin=CF2-1
+Added Pin To Net: NetName=GND Pin=CF2-2
+Added Pin To Net: NetName=NetCF2_3 Pin=CF2-3
+Added Pin To Net: NetName=FI Pin=CF3-1
+Added Pin To Net: NetName=GND Pin=CF3-2
+Added Pin To Net: NetName=NetCF3_3 Pin=CF3-3
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=AUDIO Pin=D1-3
+Added Pin To Net: NetName=NetC30_2 Pin=Ind1-1
+Added Pin To Net: NetName=NetInd1_2 Pin=Ind1-2
+Added Pin To Net: NetName=NetC32_2 Pin=Ind2-1
+Added Pin To Net: NetName=NetC31_1 Pin=Ind2-2
+Added Pin To Net: NetName=GND Pin=L1-1
+Added Pin To Net: NetName=NetC16_1 Pin=L1-2
+Added Pin To Net: NetName=GND Pin=L2-1
+Added Pin To Net: NetName=NetC17_1 Pin=L2-2
+Added Pin To Net: NetName=GND Pin=L3-1
+Added Pin To Net: NetName=NetC18_2 Pin=L3-2
+Added Pin To Net: NetName=GND Pin=L4-1
+Added Pin To Net: NetName=NetC19_2 Pin=L4-2
+Added Pin To Net: NetName=AUDIO_BUFF Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=NetC11_2 Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P3-0
+Added Pin To Net: NetName=GND Pin=P3-0
+Added Pin To Net: NetName=GND Pin=P3-0
+Added Pin To Net: NetName=GND Pin=P3-0
+Added Pin To Net: NetName=RF_IN Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P4-0
+Added Pin To Net: NetName=GND Pin=P4-0
+Added Pin To Net: NetName=GND Pin=P4-0
+Added Pin To Net: NetName=GND Pin=P4-0
+Added Pin To Net: NetName=NetC27_2 Pin=P4-1
+Added Pin To Net: NetName=NetCF1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetC5_1 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetCF3_3 Pin=Q2-1
+Added Pin To Net: NetName=NetC6_1 Pin=Q2-2
+Added Pin To Net: NetName=NetC5_2 Pin=Q2-3
+Added Pin To Net: NetName=NetCF1_3 Pin=Q3-1
+Added Pin To Net: NetName=NetC7_1 Pin=Q3-2
+Added Pin To Net: NetName=NetCF2_1 Pin=Q3-3
+Added Pin To Net: NetName=NetCF2_3 Pin=Q4-1
+Added Pin To Net: NetName=NetC8_2 Pin=Q4-2
+Added Pin To Net: NetName=NetQ4_3 Pin=Q4-3
+Added Pin To Net: NetName=VCC Pin=Q5-1
+Added Pin To Net: NetName=NetQ5_2 Pin=Q5-2
+Added Pin To Net: NetName=NetC9_2 Pin=Q5-3
+Added Pin To Net: NetName=NetC31_2 Pin=Q6-1
+Added Pin To Net: NetName=NetC30_1 Pin=Q6-2
+Added Pin To Net: NetName=NetQ6_3 Pin=Q6-3
+Added Pin To Net: NetName=VCC Pin=R1-1
+Added Pin To Net: NetName=NetC1_2 Pin=R1-2
+Added Pin To Net: NetName=CAG Pin=R2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=R3-1
+Added Pin To Net: NetName=NetC3_1 Pin=R3-2
+Added Pin To Net: NetName=VCC Pin=R4-1
+Added Pin To Net: NetName=NetC5_1 Pin=R4-2
+Added Pin To Net: NetName=NetC2_1 Pin=R5-1
+Added Pin To Net: NetName=NetC5_2 Pin=R5-2
+Added Pin To Net: NetName=NetC3_1 Pin=R6-1
+Added Pin To Net: NetName=NetCF2_1 Pin=R6-2
+Added Pin To Net: NetName=NetC1_2 Pin=R7-1
+Added Pin To Net: NetName=NetQ4_3 Pin=R7-2
+Added Pin To Net: NetName=AUDIO Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=NetC2_1 Pin=R9-1
+Added Pin To Net: NetName=NetCF3_3 Pin=R9-2
+Added Pin To Net: NetName=NetC3_1 Pin=R10-1
+Added Pin To Net: NetName=NetCF1_3 Pin=R10-2
+Added Pin To Net: NetName=NetC1_2 Pin=R11-1
+Added Pin To Net: NetName=NetCF2_3 Pin=R11-2
+Added Pin To Net: NetName=NetC5_1 Pin=R12-1
+Added Pin To Net: NetName=NetQ1_3 Pin=R12-2
+Added Pin To Net: NetName=NetCF3_3 Pin=R13-1
+Added Pin To Net: NetName=GND Pin=R13-2
+Added Pin To Net: NetName=NetCF1_3 Pin=R14-1
+Added Pin To Net: NetName=GND Pin=R14-2
+Added Pin To Net: NetName=NetCF2_3 Pin=R15-1
+Added Pin To Net: NetName=GND Pin=R15-2
+Added Pin To Net: NetName=NetC6_1 Pin=R16-1
+Added Pin To Net: NetName=GND Pin=R16-2
+Added Pin To Net: NetName=NetQ1_3 Pin=R17-1
+Added Pin To Net: NetName=CAG Pin=R17-2
+Added Pin To Net: NetName=NetC7_1 Pin=R18-1
+Added Pin To Net: NetName=GND Pin=R18-2
+Added Pin To Net: NetName=NetC8_2 Pin=R19-1
+Added Pin To Net: NetName=GND Pin=R19-2
+Added Pin To Net: NetName=NetC9_2 Pin=R20-1
+Added Pin To Net: NetName=AUDIO Pin=R20-2
+Added Pin To Net: NetName=GND Pin=R21-1
+Added Pin To Net: NetName=NetQ5_2 Pin=R21-2
+Added Pin To Net: NetName=NetQ5_2 Pin=R22-1
+Added Pin To Net: NetName=CAG Pin=R22-2
+Added Pin To Net: NetName=NetC9_2 Pin=R23-1
+Added Pin To Net: NetName=GND Pin=R23-2
+Added Pin To Net: NetName=NetR24_1 Pin=R24-1
+Added Pin To Net: NetName=GND Pin=R24-2
+Added Pin To Net: NetName=VCC Pin=R25-1
+Added Pin To Net: NetName=NetR25_2 Pin=R25-2
+Added Pin To Net: NetName=NetR24_1 Pin=R26-1
+Added Pin To Net: NetName=NetR25_2 Pin=R26-2
+Added Pin To Net: NetName=NetR26_3 Pin=R26-3
+Added Pin To Net: NetName=VCC Pin=R27-1
+Added Pin To Net: NetName=NetC28_2 Pin=R27-2
+Added Pin To Net: NetName=NetInd1_2 Pin=R28-1
+Added Pin To Net: NetName=VCC Pin=R28-2
+Added Pin To Net: NetName=VCC Pin=R29-1
+Added Pin To Net: NetName=NetC30_1 Pin=R29-2
+Added Pin To Net: NetName=NetQ6_3 Pin=R30-1
+Added Pin To Net: NetName=NetC30_1 Pin=R30-2
+Added Pin To Net: NetName=CAG Pin=R31-1
+Added Pin To Net: NetName=NetQ6_3 Pin=R31-2
+Added Pin To Net: NetName=RF_FILT Pin=RF1-1
+Added Pin To Net: NetName=GND Pin=RF1-2
+Added Pin To Net: NetName=NetC30_2 Pin=RF1-3
+Added Pin To Net: NetName=GND Pin=RF1-4
+Added Pin To Net: NetName=NetC1_2 Pin=T1-1
+Added Pin To Net: NetName=NetQ4_3 Pin=T1-2
+Added Pin To Net: NetName=NetD1_1 Pin=T1-3
+Added Pin To Net: NetName=GND Pin=T1-4
+Added Pin To Net: NetName=GND Pin=T1-5
+Added Pin To Net: NetName=NetD1_2 Pin=T1-6
+Added Pin To Net: NetName=AUDIO_BUFF Pin=U1-1
+Added Pin To Net: NetName=AUDIO_BUFF Pin=U1-2
+Added Pin To Net: NetName=AUDIO Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=NetR26_3 Pin=U1-5
+Added Pin To Net: NetName=NetQ5_2 Pin=U1-6
+Added Pin To Net: NetName=CAG Pin=U1-7
+Added Pin To Net: NetName=VCC Pin=U1-8
+Added Pin To Net: NetName=VCC Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=NetC11_2 Pin=U2-3
+Added Pin To Net: NetName=NetC31_1 Pin=U3-1
+Added Pin To Net: NetName=NetC32_2 Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=FI Pin=U3-5
+Added Pin To Net: NetName=NetC27_1 Pin=U3-6
+Added Pin To Net: NetName=NetC28_2 Pin=U3-8
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component C1 Capacitor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component C2 Capacitor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component C3 Capacitor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component C4 Capacitor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component C5 Capacitor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component C6 Capacitor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component C7 Capacitor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component C8 Capacitor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component C9 Capacitor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component C10 Capacitor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component C11 Capacitor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component C12 Capacitor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component C13 Capacitor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component C14 Capacitor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component C15 Capacitor
+Added Member To Class: ClassName=FiltroRF Member=Component C16 Capacitor
+Added Member To Class: ClassName=FiltroRF Member=Component C17 Capacitor
+Added Member To Class: ClassName=FiltroRF Member=Component C18 Capacitor
+Added Member To Class: ClassName=FiltroRF Member=Component C19 Capacitor
+Added Member To Class: ClassName=FiltroRF Member=Component C20 Capacitor
+Added Member To Class: ClassName=FiltroRF Member=Component C21 Capacitor
+Added Member To Class: ClassName=FiltroRF Member=Component C22 Capacitor
+Added Member To Class: ClassName=FiltroRF Member=Component C23 Capacitor
+Added Member To Class: ClassName=FiltroRF Member=Component C24 Capacitor
+Added Member To Class: ClassName=FiltroRF Member=Component C25 Capacitor
+Added Member To Class: ClassName=FiltroRF Member=Component C26 Capacitor
+Added Member To Class: ClassName=FiltroRF Member=Component C27 Capacitor
+Added Member To Class: ClassName=FiltroRF Member=Component C28 Capacitor
+Added Member To Class: ClassName=FiltroRF Member=Component C29 Capacitor
+Added Member To Class: ClassName=FiltroRF Member=Component C30 Capacitor
+Added Member To Class: ClassName=FiltroRF Member=Component C31 Capacitor
+Added Member To Class: ClassName=FiltroRF Member=Component C32 Capacitor
+Added Member To Class: ClassName=FiltroRF Member=Component C33 Capacitor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component CF1 Filtro_ceramico
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component CF2 Filtro_ceramico
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component CF3 Filtro_ceramico
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component D1 BAS70-05W
+Added Member To Class: ClassName=FiltroRF Member=Component Ind1 Ind2
+Added Member To Class: ClassName=FiltroRF Member=Component Ind2
+Added Member To Class: ClassName=FiltroRF Member=Component L1 Inductor
+Added Member To Class: ClassName=FiltroRF Member=Component L2 Inductor
+Added Member To Class: ClassName=FiltroRF Member=Component L3 Inductor
+Added Member To Class: ClassName=FiltroRF Member=Component L4 Inductor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component P1 Header2
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component P2 Header2
+Added Member To Class: ClassName=FiltroRF Member=Component P3 SMA2
+Added Member To Class: ClassName=FiltroRF Member=Component P4 SMA2
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component Q1 PMBF4391
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component Q2 BFS17
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component Q3 BFS17
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component Q4 BFS17
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component Q5 PMBF4391
+Added Member To Class: ClassName=FiltroRF Member=Component Q6 PMBF4391
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component R1 Resistor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component R2 Resistor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component R3 Resistor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component R4 Resistor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component R5 Resistor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component R6 Resistor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component R7 Resistor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component R8 Resistor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component R9 Resistor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component R10 Resistor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component R11 Resistor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component R12 Resistor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component R13 Resistor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component R14 Resistor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component R15 Resistor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component R16 Resistor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component R17 Resistor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component R18 Resistor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component R19 Resistor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component R20 Resistor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component R21 Resistor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component R22 Resistor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component R23 Resistor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component R24 Resistor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component R25 Resistor
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component R26 Pot
+Added Member To Class: ClassName=FiltroRF Member=Component R27 Resistor
+Added Member To Class: ClassName=FiltroRF Member=Component R28 Resistor
+Added Member To Class: ClassName=FiltroRF Member=Component R29 Resistor
+Added Member To Class: ClassName=FiltroRF Member=Component R30 Resistor
+Added Member To Class: ClassName=FiltroRF Member=Component R31 Resistor
+Added Member To Class: ClassName=FiltroRF Member=Component RF1 MAR-1SM
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component T1 Transformer
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component U1 MC1458D
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component U2 LM78L09ACZ
+Added Member To Class: ClassName=FiltroRF Member=Component U3 SA602
+Added Room: Name=Ampli_FI_10_7MHz
+Added Room: Name=FiltroRF

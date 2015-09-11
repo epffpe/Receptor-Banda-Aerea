@@ -1,0 +1,9 @@
+Added Component: Designator=C59(C0805)
+Added Component: Designator=C60(C0805)
+Added Pin To Net: NetName=CAG Pin=C59-1
+Added Pin To Net: NetName=NetC43_2 Pin=C59-2
+Added Pin To Net: NetName=NetC41_1 Pin=C60-1
+Added Pin To Net: NetName=NetC42_2 Pin=C60-2
+Added Member To Class: ClassName=Ampli_FI2 Member=Component C59 Cap Pol3
+Added Member To Class: ClassName=Ampli_FI2 Member=Component C60 Cap Pol3
+Added Member To Class: ClassName=Mezclador1 Member=Component R22 Res Semi

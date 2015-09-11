@@ -1,0 +1,6 @@
+Added Component: Designator=R?(2012[0805])
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R?-2
+Added Net: Name=NetD1_1
+Added Member To Class: ClassName=Ampli_FI2 Member=Component R? Res Semi

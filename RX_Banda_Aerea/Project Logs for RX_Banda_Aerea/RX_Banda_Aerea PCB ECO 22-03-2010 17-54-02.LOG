@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VCC Pin=P2-1
+Removed Pin From Net: NetName=VCC Pin=U4-6
+Added Component: Designator=U6(Z03A)
+Added Pin To Net: NetName=VCC Pin=U6-1
+Added Pin To Net: NetName=GND Pin=U6-2
+Added Pin To Net: NetName=AVCC Pin=P2-1
+Added Pin To Net: NetName=AVCC Pin=U4-6
+Added Pin To Net: NetName=AVCC Pin=U6-3
+Added Net: Name=AVCC
+Added Member To Class: ClassName=Alimentacion Member=Component U6 LM78L05ACZ

@@ -1,0 +1,33 @@
+Added Component: Designator=C1(C0805)
+Added Component: Designator=C2(C0805)
+Added Component: Designator=C3(C0805)
+Added Component: Designator=Ind1(IND_7MM)
+Added Component: Designator=P1(HDR1X2)
+Added Component: Designator=R1(2012[0805])
+Added Component: Designator=R2(2012[0805])
+Added Component: Designator=RF1(MAR-1)
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=NetC2_1 Pin=Ind1-1
+Added Pin To Net: NetName=NetInd1_2 Pin=Ind1-2
+Added Pin To Net: NetName=VCC Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=NetInd1_2 Pin=R1-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R2-1
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=NetC1_2 Pin=RF1-1
+Added Pin To Net: NetName=GND Pin=RF1-2
+Added Pin To Net: NetName=NetC2_1 Pin=RF1-3
+Added Pin To Net: NetName=GND Pin=RF1-4
+Added Member To Class: ClassName=MAR1SM Member=Component C1 Cap Pol3
+Added Member To Class: ClassName=MAR1SM Member=Component C2 Cap Pol3
+Added Member To Class: ClassName=MAR1SM Member=Component C3 Cap Pol3
+Added Member To Class: ClassName=MAR1SM Member=Component Ind1 Ind2
+Added Member To Class: ClassName=MAR1SM Member=Component P1 Header 2
+Added Member To Class: ClassName=MAR1SM Member=Component R1 Res Semi
+Added Member To Class: ClassName=MAR1SM Member=Component R2 Res Semi
+Added Member To Class: ClassName=MAR1SM Member=Component RF1 *
+Added Room: Name=MAR1SM

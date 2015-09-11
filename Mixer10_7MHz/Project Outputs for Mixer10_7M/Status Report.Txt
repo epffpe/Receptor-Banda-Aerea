@@ -1,0 +1,7 @@
+   Printed Document[Mixer10_7M.PcbDoc]
+   Printed Document[Mixer10_7M.PcbDoc]
+
+Files Generated   : 0
+Documents Printed : 2
+
+Finished Output Generation At 19:11:45 On 08/03/2010

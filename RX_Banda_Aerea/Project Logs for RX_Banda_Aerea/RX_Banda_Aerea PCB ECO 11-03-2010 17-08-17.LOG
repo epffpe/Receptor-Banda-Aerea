@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=D1-1
+Removed Pin From Net: NetName=AUDIO Pin=D1-2
+Removed Pin From Net: NetName=NetC16_2 Pin=P3-1
+Change Component Comment : Designator=D1 Old Comment=1PS70SB15 New Comment=BAS70-04W
+Change Component Comment : Designator=D2 Old Comment=BAS40-04W New Comment=BAS70-04W
+Added Component: Designator=C55(C0805)
+Added Component: Designator=P4(HDR1X3)
+Added Pin To Net: NetName=GND Pin=C55-2
+Added Pin To Net: NetName=AUDIO Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=NetC16_2 Pin=P4-1
+Added Pin To Net: NetName=GND Pin=P4-3
+Added Pin To Net: NetName=NetC55_1 Pin=C55-1
+Added Pin To Net: NetName=NetC55_1 Pin=P3-1
+Added Pin To Net: NetName=NetC55_1 Pin=P4-2
+Added Net: Name=NetC55_1
+Added Member To Class: ClassName=Ampli_audio Member=Component C55 Cap Pol3
+Added Member To Class: ClassName=Ampli_audio Member=Component P4 Header 3

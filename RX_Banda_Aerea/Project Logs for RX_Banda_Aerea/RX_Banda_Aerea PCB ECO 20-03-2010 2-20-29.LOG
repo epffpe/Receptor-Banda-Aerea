@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C40
+Change Component Designator: OldDesignator=Q? NewDesignator=Q4
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R22
+Added Pin To Net: NetName=VCC Pin=R6-2
+Added Pin To Net: NetName=NetC40_2 Pin=C40-2
+Added Pin To Net: NetName=NetC40_2 Pin=Q4-2
+Added Pin To Net: NetName=NetC40_2 Pin=R6-1
+Added Pin To Net: NetName=NetC40_2 Pin=R12-1
+Added Net: Name=NetC40_2
+Added Pin To Net: NetName=NetQ4_3 Pin=Q4-3
+Added Pin To Net: NetName=NetQ4_3 Pin=R12-2
+Added Pin To Net: NetName=NetQ4_3 Pin=R22-1
+Added Net: Name=NetQ4_3
+Added Member To Class: ClassName=Mezclador1 Member=Component R6 Res Semi
+Added Member To Class: ClassName=Mezclador1 Member=Component R12 Res Semi

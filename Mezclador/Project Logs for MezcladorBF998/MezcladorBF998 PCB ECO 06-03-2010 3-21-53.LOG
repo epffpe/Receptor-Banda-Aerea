@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=FI2_BF998 Member=E1
+Added Component: Designator=P3(HDR1X2)
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Pin To Net: NetName=NetP3_1 Pin=R14-2
+Added Pin To Net: NetName=NetP3_1 Pin=R15-2
+Added Net: Name=NetP3_1
+Added Member To Class: ClassName=FI2_BF998 Member=Component P3 Header 2

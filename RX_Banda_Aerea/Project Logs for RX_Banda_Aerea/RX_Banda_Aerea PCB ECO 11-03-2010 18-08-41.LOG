@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=Y2-2
+Added Component: Designator=C56(C1206)
+Added Component: Designator=P5(HDR1X2)
+Added Component: Designator=R22(2012[0805])
+Added Pin To Net: NetName=GND Pin=C56-2
+Added Pin To Net: NetName=GND Pin=P5-2
+Added Pin To Net: NetName=NetC56_1 Pin=C56-1
+Added Pin To Net: NetName=NetC56_1 Pin=R22-2
+Added Pin To Net: NetName=NetC56_1 Pin=Y2-2
+Added Net: Name=NetC56_1
+Added Pin To Net: NetName=NetP5_1 Pin=P5-1
+Added Pin To Net: NetName=NetP5_1 Pin=R22-1
+Added Net: Name=NetP5_1
+Added Member To Class: ClassName=Mezclador2 Member=Component C56 Cap Semi
+Added Member To Class: ClassName=Mezclador2 Member=Component P5 Header 2
+Added Member To Class: ClassName=Mezclador2 Member=Component R22 Res Semi

@@ -1,0 +1,7 @@
+   Printed Document[RX_BA_v4.PcbDoc]
+   Printed Document[RX_BA_v4.PcbDoc]
+
+Files Generated   : 0
+Documents Printed : 2
+
+Finished Output Generation At 17:40:06 On 22/04/2010

@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Ampli_FI_10_7.PrjPCB]
+   Generated File[FI_10_7.TXT]
+   Generated File[FI_10_7.DRL]
+   Generated File[FI_10_7.LDP]
+   Generated File[FI_10_7.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 20:56:31 On 27/09/2010

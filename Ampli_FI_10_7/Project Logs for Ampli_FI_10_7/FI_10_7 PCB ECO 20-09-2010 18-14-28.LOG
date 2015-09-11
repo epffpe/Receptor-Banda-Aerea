@@ -1,0 +1,12 @@
+Added Component: Designator=C18(SMAL2)
+Added Component: Designator=J1(PIN1)
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C18-3
+Added Pin To Net: NetName=GND Pin=C18-4
+Added Pin To Net: NetName=GND Pin=C18-5
+Added Pin To Net: NetName=NetC4_2 Pin=J1-1
+Added Pin To Net: NetName=NetC18_1 Pin=C18-1
+Added Pin To Net: NetName=NetC18_1 Pin=R12-1
+Added Net: Name=NetC18_1
+Added Member To Class: ClassName=FI_10_7 Member=Component C18 SMA
+Added Member To Class: ClassName=FI_10_7 Member=Component J1 Socket

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetC12_2 Pin=R8-2
+Added Component: Designator=RFC(AXIAL-0.3)
+Added Pin To Net: NetName=NetC12_2 Pin=RFC-2
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=RFC-1
+Added Net: Name=NetR8_2
+Added Member To Class: ClassName=OsciladorLocal Member=Component RFC Res1

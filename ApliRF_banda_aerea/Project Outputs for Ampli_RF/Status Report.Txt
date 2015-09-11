@@ -1,0 +1,7 @@
+   Printed Document[Ampli_RF.PcbDoc]
+   Printed Document[Ampli_RF.PcbDoc]
+
+Files Generated   : 0
+Documents Printed : 2
+
+Finished Output Generation At 16:38:29 On 09/02/2010

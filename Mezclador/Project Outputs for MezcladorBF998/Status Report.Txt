@@ -1,0 +1,7 @@
+   Printed Document[MezcladorBF998.PcbDoc]
+   Printed Document[MezcladorBF998.PcbDoc]
+
+Files Generated   : 0
+Documents Printed : 2
+
+Finished Output Generation At 3:26:44 On 06/03/2010

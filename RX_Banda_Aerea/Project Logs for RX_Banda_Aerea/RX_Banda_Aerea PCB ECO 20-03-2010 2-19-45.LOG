@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=RF_AMP Pin=C40-1
+Removed Pin From Net: NetName=GND Pin=P5-2
+Removed Pin From Net: NetName=VCC Pin=R6-2
+Removed Pin From Net: NetName=NetC56_1 Pin=R22-2
+Removed Member From Class: ClassName=Mezclador1 Member=C40
+Removed Member From Class: ClassName=Mezclador2 Member=P5
+Removed Member From Class: ClassName=Mezclador1 Member=R6
+Removed Member From Class: ClassName=Mezclador1 Member=R12
+Removed Member From Class: ClassName=Mezclador2 Member=R22
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q?
+Change Component Designator: OldDesignator=R23 NewDesignator=R?
+Added Component: Designator=C?(C0805)
+Added Component: Designator=R?(2012[0805])
+Added Component: Designator=R?(2012[0805])
+Added Pin To Net: NetName=RF_AMP Pin=C?-1
+Added Pin To Net: NetName=VCC Pin=R?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=Q?-2
+Added Pin To Net: NetName=NetC?_2 Pin=R?-1
+Added Pin To Net: NetName=NetC?_2 Pin=R?-1
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetQ?_3 Pin=Q?-3
+Added Pin To Net: NetName=NetQ?_3 Pin=R?-1
+Added Pin To Net: NetName=NetQ?_3 Pin=R?-2
+Added Net: Name=NetQ?_3
+Added Member To Class: ClassName=Mezclador1 Member=Component C? Cap Pol3
+Added Member To Class: ClassName=Mezclador1 Member=Component P1 Header 3
+Added Member To Class: ClassName=Mezclador1 Member=Component R3 Res Semi
+Added Member To Class: ClassName=Mezclador1 Member=Component R? Res Semi
+Added Member To Class: ClassName=Mezclador1 Member=Component R? Res Semi

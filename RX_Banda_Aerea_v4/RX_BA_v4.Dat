@@ -1,0 +1,29 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~RX_BA_V4.PrjPcb|ReportField=ProjectFullPath~D:\Designs\Protel\RX_Banda_Aerea_v4\RX_BA_V4.PrjPcb|ReportField=Title~Bill of Materials For Project [RX_BA_V4.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~175|ReportField=ReportTime~23:53:29|ReportField=ReportDate~06/05/2010|ReportField=ReportDateTime~06/05/2010 23:53:29|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Title~Receptor de Banda Aerea|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~06/05/2010|ReportField=CurrentTime~23:53:01|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\Designs\Protel\RX_Banda_Aerea_v4\Alimentacion.SchDoc|ReportField=DocumentName~Alimentacion.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~21/04/2010|ReportField=Organization~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=DataSourceFileName~RX_BA_V4.PrjPcb|ReportField=DataSourceFullPath~D:\Designs\Protel\RX_Banda_Aerea_v4\RX_BA_V4.PrjPcb
+Cap Pol3|Polarized Capacitor (Surface Mount)|C1, C2, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22, C23, C25, C26, C27, C28, C29, C30, C31, C32, C33, C34, C35, C36, C37, C38, C39, C40, C41, C42, C43, C44, C45, C46, C47, C48, C49, C50, C51, C52, C53, C54, C55, C56, C57, C58, C59, C61, C62, C64, C67, C68, C71|C0805|Cap Pol3|63
+SMA||C3|SMA1|SMA|1
+Cap Semi|Capacitor (Semiconductor SIM Model)|C24|C1206|Cap Semi|1
+Cap Pol1|Polarized Capacitor (Radial)|C60, C63, C65, C66, C69|B|Cap Pol1|5
+SMA_2||C70|SMA-2holeD|SMA_2|1
+BAS70-04W|Schottky Barrier Double Diode|D1, D2|SOT323_N|BAS70-04W|2
+CFWC455D|Filtro ceramico|FL1|CFWC455|CFWC455D3|1
+Ind2||Ind2, Ind9, Ind10|Ind_4mm|Ind2|3
+Ind2||Ind3, Ind5, Ind6, Ind7, Ind8|AXIAL-0.3|Ind2|5
+Ind2||Ind4|Ind_3mm|Ind2|1
+Inductor|Inductor|L1, L2, L3, L4|3261|Inductor|4
+Header 2|Header, 2-Pin|P1, P3, P5|HDR1X2|Header 2|3
+Header 3|Header, 3-Pin|P2, P4, P6|HDR1X3|Header 3|3
+BFS17|NPN 1 GHz Wideband Transistor|Q1, Q5, Q11, Q14|SOT-23|BFS17|4
+BFS17|NPN 1 GHz Wideband Transistor|Q2|SOT23_N|BFS17|1
+BF998|Silicon N-channel Dual-gate MOSFET|Q3, Q6|SOT-143|BF998|2
+PMBF4391|N-channel Silicon Junction Field-effect Transistor|Q4, Q8, Q10, Q12, Q13|SOT-23|PMBF4391|5
+PMBF4391|N-channel Silicon Junction Field-effect Transistor|Q7|SOT23_N|PMBF4391|1
+PMBT2907|PNP Switching Transistor|Q9|SOT-23|PMBT2907|1
+Res Semi|Semiconductor Resistor|R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R16, R17, R18, R19, R20, R21, R22, R23, R24, R26, R27, R28, R29, R30, R31, R32, R33, R34, R35, R36, R37, R38, R39, R40, R41, R42, R43, R44, R45, R46, R47, R48, R49, R50, R51, R52, R53, R54, R55, R57, R60, R61, R62, R63|2012[0805]|Res Semi|58
+Res1|Resistor|R15, R25|AXIAL-0.3|Res1|2
+Pot||R56|Potenciometro|Pot|1
+Pot||R58, R59|POT-eje2|Pot|2
+LM78L05ACZ|3-Terminal Positive Regulators|U1|BCY-W3|LM78L05ACZ|1
+TL081CP|JFET-Input Operational Amplifier|U3|DIP8|TL081CP|1
+LM386N-1|Low Voltage Audio Power Amplifier|U4|DIP8|LM386N-1|1
+ECS-35-17-4-3IL|Crystal Oscillator, 3rd In-Line Lead Version|Y1|HC-49US|ECS-35-17-4-3IL|1
+ECS-10-13-1|Crystal Oscillator|Y2|HC-49U|ECS-10-13-1|1

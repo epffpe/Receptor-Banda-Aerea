@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=OL Pin=D1-1
+Removed Pin From Net: NetName=GND Pin=D1-2
+Removed Pin From Net: NetName=NetC12_2 Pin=Q2-1
+Removed Pin From Net: NetName=VCC Pin=Q2-2
+Removed Pin From Net: NetName=OL Pin=Q2-3
+Removed Pin From Net: NetName=GND Pin=R6-1
+Removed Pin From Net: NetName=OL Pin=R6-2
+Removed Pin From Net: NetName=NetC12_2 Pin=RFC-2
+Removed Member From Class: ClassName=OsciladorLocal Member=D1
+Removed Member From Class: ClassName=OsciladorLocal Member=RFC
+Change Component Comment : Designator=Q2 Old Comment=PMBF4416 New Comment=BFS17
+Added Pin To Net: NetName=OL Pin=Q2-1
+Added Pin To Net: NetName=NetC12_2 Pin=Q2-2
+Added Pin To Net: NetName=VCC Pin=Q2-3
+Added Pin To Net: NetName=OL Pin=R6-1
+Added Pin To Net: NetName=VCC Pin=R6-2
+Added Pin To Net: NetName=NetC12_2 Pin=R8-2

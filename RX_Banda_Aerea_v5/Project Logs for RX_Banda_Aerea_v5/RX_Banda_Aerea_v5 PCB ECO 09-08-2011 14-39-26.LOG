@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=FI Pin=U3-5
+Added Pin To Net: NetName=FI Pin=U3-4
+Added Room: Name=Ampli_FI_10_7MHz
+Added Room: Name=FiltroRF

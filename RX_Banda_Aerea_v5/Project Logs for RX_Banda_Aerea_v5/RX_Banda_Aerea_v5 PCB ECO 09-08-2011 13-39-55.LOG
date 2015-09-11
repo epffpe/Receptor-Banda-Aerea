@@ -1,0 +1,21 @@
+Added Component: Designator=D1(SOT323_N)
+Added Component: Designator=L1(INDC3216AL)
+Added Component: Designator=L2(INDC3216AL)
+Added Component: Designator=L3(INDC3216AL)
+Added Component: Designator=L4(INDC3216AL)
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=AUDIO Pin=D1-3
+Added Pin To Net: NetName=GND Pin=L1-1
+Added Pin To Net: NetName=NetC16_1 Pin=L1-2
+Added Pin To Net: NetName=GND Pin=L2-1
+Added Pin To Net: NetName=NetC17_1 Pin=L2-2
+Added Pin To Net: NetName=GND Pin=L3-1
+Added Pin To Net: NetName=NetC18_2 Pin=L3-2
+Added Pin To Net: NetName=GND Pin=L4-1
+Added Pin To Net: NetName=NetC19_2 Pin=L4-2
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component D1 BAS70-05W
+Added Member To Class: ClassName=FiltroRF Member=Component L1 Inductor
+Added Member To Class: ClassName=FiltroRF Member=Component L2 Inductor
+Added Member To Class: ClassName=FiltroRF Member=Component L3 Inductor
+Added Member To Class: ClassName=FiltroRF Member=Component L4 Inductor

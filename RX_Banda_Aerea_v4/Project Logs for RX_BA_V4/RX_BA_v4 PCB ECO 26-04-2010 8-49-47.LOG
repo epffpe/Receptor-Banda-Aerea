@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=RF_AMP Pin=R2-2
+Removed Pin From Net: NetName=RF_AMP Pin=R3-1
+Removed Pin From Net: NetName=RF_AMP Pin=R5-2
+Added Component: Designator=C28(C0805)
+Added Pin To Net: NetName=RF_AMP Pin=C28-2
+Added Pin To Net: NetName=NetC28_1 Pin=C28-1
+Added Pin To Net: NetName=NetC28_1 Pin=R2-2
+Added Pin To Net: NetName=NetC28_1 Pin=R3-1
+Added Pin To Net: NetName=NetC28_1 Pin=R5-2
+Added Net: Name=NetC28_1
+Added Member To Class: ClassName=FiltroRF Member=Component C28 Cap Pol3

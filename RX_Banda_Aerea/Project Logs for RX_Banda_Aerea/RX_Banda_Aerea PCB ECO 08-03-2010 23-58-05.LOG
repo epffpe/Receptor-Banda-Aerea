@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=RF_AMP Pin=C15-2
+Removed Pin From Net: NetName=RF_FILT Pin=C16-1
+Removed Member From Class: ClassName=Ampli_RF Member=C15
+Removed Member From Class: ClassName=Ampli_RF Member=C16
+Added Pin To Net: NetName=RF_AMP Pin=Ind3-2
+Added Pin To Net: NetName=RF_FILT Pin=U2-1
+Added Pin To Net: NetName=RF_AMP Pin=U2-4

@@ -1,0 +1,181 @@
+Protel Design System Design Rule Check
+PCB File : D:\Designs\Protel\RX_Banda_Aerea_v4\RX_BA_v4.PcbDoc
+Date     : 18/04/2010
+Time     : 20:05:43
+
+Processing Rule : Room Control_Freq (Bounding Region = (112.649mm, 67.437mm, 191.897mm, 133.35mm) (InComponentClass('Control_Freq'))
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C48-2 (84.648,109.093mm) And Pad C38-2 (86.045,100.33mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Ind4-1 (65.659,116.332mm) And Pad C14-2 (66.167,107.122mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C34-2 (72.644,115.636mm) And Pad C33-2 (80.071,114.427mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C56-2 (100.457,89.54mm) And Pad C52-2 (100.965,81.661mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C1-2 (65.405,81.214mm) And Pad R62-2 (68.58,86.299mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad L2-2 (72.517,95.528mm) And Pad C12-2 (74.422,101.092mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Y2-1 (92.329,98.071mm) And Pad U3-4 (98.298,98.298mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R48-1 (99.568,94.173mm) And Pad C56-2 (100.457,89.54mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C67-2 (98.491,127.889mm) And Pad C68-2 (117.282,126.492mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C70-2 (82.167,124.331mm) And Pad C46-2 (91.948,125.918mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R43-1 (85.852,79.314mm) And Pad R40-2 (96.52,79.314mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C3-3 (53.323,85.97mm) And Pad C3-4 (53.323,94.37mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Y1-2 (83.312,119.38mm) And Pad R26-1 (84.709,113.096mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C23-1 (64.77,126.05mm) And Pad C25-1 (70.866,124.907mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C13-2 (68.199,107.122mm) And Pad L3-2 (73.382,105.156mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad L1-2 (63.651,94.488mm) And Pad Q14-2 (66.482,90.19mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Q2-2 (79.248,128.529mm) And Pad C70-2 (82.167,124.331mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Ind10-1 (58.42,86.233mm) And Pad U1-2 (60.001,80.772mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C23-1 (64.77,126.05mm) And Pad R16-1 (66.421,121.561mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad FL1-4 (83.014,97.238mm) And Pad C38-2 (86.045,100.33mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C9-2 (64.709,96.52mm) And Pad C11-2 (70.485,96.6606mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C71-1 (56.703,122.428mm) And Pad P2-3 (59.944,125.095mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U3-4 (98.298,98.298mm) And Pad R48-1 (99.568,94.173mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C60-2 (106.553,89.424mm) And Pad R50-2 (107.376,93.98mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R1-1 (59.944,105.217mm) And Pad R2-1 (61.656,108.077mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad L4-2 (63.881,108.18mm) And Pad C14-2 (66.167,107.122mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C52-2 (100.965,81.661mm) And Pad C58-2 (103.505,81.346mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R44-2 (107.569,81.346mm) And Pad R59-1 (125.222,82.253mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Ind6-1 (94.996,114.935mm) And Pad R56-1 (104.648,111.76mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C61-2 (109.281,96.012mm) And Pad P6-3 (114.808,103.124mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Ind6-1 (94.996,114.935mm) And Pad U4-4 (95.758,125.349mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R42-1 (79.629,84.389mm) And Pad C57-2 (83.693,79.314mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C70-3 (90.807,132.971mm) And Pad C46-2 (91.948,125.918mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Ind2-1 (57.976,131.191mm) And Pad P2-3 (59.944,125.095mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Ind9-1 (58.928,98.933mm) And Pad R1-1 (59.944,105.217mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C17-2 (75.184,131.506mm) And Pad Q2-2 (79.248,128.529mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C3-3 (53.323,85.97mm) And Pad P1-2 (53.721,79.756mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C70-2 (82.167,124.331mm) And Pad Y1-2 (83.312,119.38mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C38-2 (86.045,100.33mm) And Pad R22-1 (92.009,100.457mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Ind4-1 (65.659,116.332mm) And Pad R16-1 (66.421,121.561mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Q14-2 (66.482,90.19mm) And Pad R62-2 (68.58,86.299mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Ind4-1 (65.659,116.332mm) And Pad R20-1 (70.612,115.636mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad FL1-3 (83.014,91.738mm) And Pad C35-2 (87.945,92.329mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad FL1-3 (83.014,91.738mm) And Pad FL1-4 (83.014,97.238mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C3-3 (53.323,85.97mm) And Pad Ind10-1 (58.42,86.233mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U4-4 (95.758,125.349mm) And Pad C67-2 (98.491,127.889mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C33-2 (80.071,114.427mm) And Pad C47-2 (81.915,111.059mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C49-2 (95.25,93.533mm) And Pad R48-1 (99.568,94.173mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R40-2 (96.52,79.314mm) And Pad Ind8-1 (100.838,79.756mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C46-2 (91.948,125.918mm) And Pad U4-4 (95.758,125.349mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C71-1 (56.703,122.428mm) And Pad C32-2 (58.232,119.761mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R4-1 (55.88,105.217mm) And Pad R1-1 (59.944,105.217mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C56-2 (100.457,89.54mm) And Pad R38-1 (104.328,89.408mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R50-2 (107.376,93.98mm) And Pad C61-2 (109.281,96.012mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-2 (60.001,80.772mm) And Pad C2-2 (63.373,81.214mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C11-2 (70.485,96.6606mm) And Pad L2-2 (72.517,95.528mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad L3-2 (73.382,105.156mm) And Pad C10-2 (74.483,103.124mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C24-2 (62.611,125.092mm) And Pad C23-1 (64.77,126.05mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C68-2 (117.282,126.492mm) And Pad P5-2 (117.348,129.54mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad L1-2 (63.651,94.488mm) And Pad C9-2 (64.709,96.52mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R4-1 (55.88,105.217mm) And Pad R5-1 (56.073,108.077mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad P5-2 (117.348,129.54mm) And Pad P4-3 (117.348,132.588mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C47-2 (81.915,111.059mm) And Pad R30-1 (84.648,111.125mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R22-1 (92.009,100.457mm) And Pad Y2-1 (92.329,98.071mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad P2-3 (59.944,125.095mm) And Pad C24-2 (62.611,125.092mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U3-4 (98.298,98.298mm) And Pad R52-2 (98.618,100.584mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R2-1 (61.656,108.077mm) And Pad L4-2 (63.881,108.18mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R38-1 (104.328,89.408mm) And Pad C60-2 (106.553,89.424mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C57-2 (83.693,79.314mm) And Pad R43-1 (85.852,79.314mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C12-2 (74.422,101.092mm) And Pad C10-2 (74.483,103.124mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C25-1 (70.866,124.907mm) And Pad R12-1 (72.898,124.907mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C14-2 (66.167,107.122mm) And Pad C13-2 (68.199,107.122mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R20-1 (70.612,115.636mm) And Pad C34-2 (72.644,115.636mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C48-2 (84.648,109.093mm) And Pad R30-1 (84.648,111.125mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R30-1 (84.648,111.125mm) And Pad R26-1 (84.709,113.096mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C59-2 (105.537,81.346mm) And Pad R44-2 (107.569,81.346mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Ind8-1 (100.838,79.756mm) And Pad C52-2 (100.965,81.661mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C2-2 (63.373,81.214mm) And Pad C1-2 (65.405,81.214mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C58-2 (103.505,81.346mm) And Pad C59-2 (105.537,81.346mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C3-3 (53.323,85.97mm) And Pad C3-2 (53.323,85.97mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C3-4 (53.323,94.37mm) And Pad C3-5 (53.323,94.37mm)
+Rule Violations :81
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.0254mm) (Max=5mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+   Violation between Via (56.134mm,82.296mm) Top Layer to Bottom Layer and 
+                     Pad P1-1(53.721mm,82.296mm)  Multi-Layer
+Rule Violations :1
+
+Processing Rule : Silkscreen Over Component Pads (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+   Violation between Text "C56" (100.203mm,92.837mm)  Top Overlay and 
+                     Track (101.316mm,93.746mm)(101.766mm,93.746mm)  Top Overlay
+   Violation between Text "C48" (82.169mm,107.442mm)  Top Overlay and 
+                     Track (81.265mm,108.209mm)(82.565mm,108.209mm)  Top Overlay
+   Violation between Text "C22" (74.422mm,127.762mm)  Top Overlay and 
+                     Track (74.534mm,128.656mm)(75.834mm,128.656mm)  Top Overlay
+   Violation between Text "C3" (50.419mm,91.821mm)  Top Overlay and 
+                     Track (50.523mm,85.67mm)(50.523mm,94.67mm)  Top Overlay
+   Violation between Text "R26" (83.312mm,113.157mm)  Top Overlay and 
+                     Text "C47" (81.153mm,112.4204mm)  Top Overlay
+   Violation between Text "U4" (108.6358mm,130.6068mm)  Bottom Overlay and 
+                     Arc (107.696mm,132.715mm)  Bottom Overlay
+   Violation between Text "U3" (107.188mm,107.8738mm)  Bottom Overlay and 
+                     Arc (108.839mm,109.966mm)  Bottom Overlay
+   Violation between Text "+" (109.855mm,108.331mm)  Bottom Overlay and 
+                     Arc (108.839mm,109.966mm)  Bottom Overlay
+   Violation between Text "+" (108.458mm,122.174mm)  Bottom Overlay and 
+                     Arc (109.347mm,121.682mm)  Bottom Overlay
+Rule Violations :9
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=3mm) (Preferred=1mm) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+   Violation between Track (50.8mm,76.073mm)(50.8mm,136.398mm)  Keep-Out Layer and 
+                     Pad C3-1(52.123mm,90.17mm)  Top Layer
+   Violation between Track (50.8mm,76.073mm)(50.8mm,136.398mm)  Keep-Out Layer and 
+                     Pad C3-2(53.323mm,85.97mm)  Top Layer
+   Violation between Track (50.8mm,76.073mm)(50.8mm,136.398mm)  Keep-Out Layer and 
+                     Pad C3-4(53.323mm,94.37mm)  Top Layer
+   Violation between Track (50.8mm,76.073mm)(50.8mm,136.398mm)  Keep-Out Layer and 
+                     Track (51.435mm,90.17mm)(55.753mm,90.17mm)  Top Layer
+   Violation between Track (50.8mm,76.073mm)(50.8mm,136.398mm)  Keep-Out Layer and 
+                     Pad C3-3(53.323mm,85.97mm)  Bottom Layer
+   Violation between Track (50.8mm,76.073mm)(50.8mm,136.398mm)  Keep-Out Layer and 
+                     Pad C3-5(53.323mm,94.37mm)  Bottom Layer
+Rule Violations :6
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Room Alimentacion (Bounding Region = (51.689mm, 77.47mm, 67.056mm, 85.217mm) (InComponentClass('Alimentacion'))
+Rule Violations :0
+
+Processing Rule : Room Ampli_audio (Bounding Region = (92.583mm, 106.045mm, 135.763mm, 136.525mm) (InComponentClass('Ampli_audio'))
+Rule Violations :0
+
+Processing Rule : Room Ampli_FI2 (Bounding Region = (66.421mm, 76.962mm, 110.871mm, 126.365mm) (InComponentClass('Ampli_FI2'))
+Rule Violations :0
+
+Processing Rule : Room AmpliRF (Bounding Region = (39.243mm, 75.692mm, 81.153mm, 105.156mm) (InComponentClass('AmpliRF'))
+Rule Violations :0
+
+Processing Rule : Room FiltroRF (Bounding Region = (54.229mm, 86.487mm, 77.978mm, 109.093mm) (InComponentClass('FiltroRF'))
+Rule Violations :0
+
+Processing Rule : Room Mezclador1 (Bounding Region = (50.673mm, 105.918mm, 97.917mm, 137.414mm) (InComponentClass('Mezclador1'))
+Rule Violations :0
+
+Processing Rule : Room Mezclador2 (Bounding Region = (75.184mm, 85.979mm, 96.52mm, 127.635mm) (InComponentClass('Mezclador2'))
+Rule Violations :0
+
+
+Violations Detected : 97
+Time Elapsed        : 00:00:02

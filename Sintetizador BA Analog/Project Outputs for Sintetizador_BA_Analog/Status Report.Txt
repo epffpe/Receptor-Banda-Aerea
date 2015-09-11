@@ -1,0 +1,7 @@
+   Printed Document[SintetivadorV00.PcbDoc]
+   Printed Document[SintetivadorV00.PcbDoc]
+
+Files Generated   : 0
+Documents Printed : 2
+
+Finished Output Generation At 22:18:50 On 26/03/2011

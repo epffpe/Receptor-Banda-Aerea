@@ -1,0 +1,5 @@
+Added Component: Designator=Q2(SOT23)
+Added Pin To Net: NetName=NetC18_2 Pin=Q2-1
+Added Pin To Net: NetName=NetC15_1 Pin=Q2-2
+Added Pin To Net: NetName=NetC1_2 Pin=Q2-3
+Added Member To Class: ClassName=Sintetizador_BA_Analog Member=Component Q2 BFS17

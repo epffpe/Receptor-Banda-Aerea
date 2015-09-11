@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=P1 Old DesignItemId=ADF_SPI New DesignItemId=ADF_SPI_GND
+Change Component Footprint: Designator=P1 Old Footprint=HeaderHx5 New Footprint=HeaderHx6
+Added Pin To Net: NetName=GND Pin=P1-6

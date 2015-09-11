@@ -1,0 +1,10 @@
+Added Component: Designator=U1(751-05_M)
+Added Pin To Net: NetName=AUDIO_BUFF Pin=U1-1
+Added Pin To Net: NetName=AUDIO_BUFF Pin=U1-2
+Added Pin To Net: NetName=AUDIO Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=NetR26_3 Pin=U1-5
+Added Pin To Net: NetName=NetQ5_2 Pin=U1-6
+Added Pin To Net: NetName=CAG Pin=U1-7
+Added Pin To Net: NetName=VCC Pin=U1-8
+Added Member To Class: ClassName=Ampli_FI_10_7MHz Member=Component U1 MC1458D

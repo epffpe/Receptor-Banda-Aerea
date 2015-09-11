@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetC5_1 Pin=R13-1
+Removed Pin From Net: NetName=NetQ1_3 Pin=R13-2
+Removed Pin From Net: NetName=NetQ1_3 Pin=R17-1
+Removed Pin From Net: NetName=CAG Pin=R17-2
+Change Component Footprint: Designator=R4 Old Footprint=2012[0805] New Footprint=0805_RES
+Change Component Footprint: Designator=R13 Old Footprint=2012[0805] New Footprint=0805_RES
+Change Component Footprint: Designator=R17 Old Footprint=2012[0805] New Footprint=0805_RES
+Change Component Comment : Designator=R17 Old Comment=Res Semi New Comment=Resistor
+Change Component Comment : Designator=R13 Old Comment=Res Semi New Comment=Resistor
+Change Component Comment : Designator=R4 Old Comment=Res Semi New Comment=Resistor
+Added Pin To Net: NetName=NetQ1_3 Pin=R13-1
+Added Pin To Net: NetName=NetC5_1 Pin=R13-2
+Added Pin To Net: NetName=CAG Pin=R17-1
+Added Pin To Net: NetName=NetQ1_3 Pin=R17-2

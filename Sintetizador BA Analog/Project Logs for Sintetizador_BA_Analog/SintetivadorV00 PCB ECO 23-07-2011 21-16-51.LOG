@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=NetC14_1 Pin=C15-2
+Removed Pin From Net: NetName=NetC15_1 Pin=C16-2
+Removed Pin From Net: NetName=NetC15_1 Pin=C17-2
+Removed Pin From Net: NetName=NetC14_1 Pin=Q1-1
+Removed Pin From Net: NetName=NetC15_1 Pin=Q1-2
+Removed Pin From Net: NetName=VCC Pin=Q1-3
+Removed Pin From Net: NetName=NetC1_2 Pin=R1-1
+Removed Pin From Net: NetName=NetC1_2 Pin=R2-2
+Removed Pin From Net: NetName=NetC1_2 Pin=R8-2
+Removed Pin From Net: NetName=NetC14_1 Pin=R12-2
+Removed Pin From Net: NetName=NetC15_1 Pin=R13-1
+Removed Pin From Net: NetName=GND Pin=R13-2
+Removed Pin From Net: NetName=GND Pin=Y1-1
+Change Component Library : Designator=C15 Old Library=epf.SchLib New Library=epf.IntLib
+Added Component: Designator=C18(0805_CAP)
+Added Component: Designator=Ind1(NTH12_2)
+Added Component: Designator=R14(0805_RES)
+Added Component: Designator=R15(0805_RES)
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=NetC14_1 Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=NetC1_2 Pin=Ind1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=NetC14_1 Pin=Q1-3
+Added Pin To Net: NetName=NetC15_1 Pin=R1-1
+Added Pin To Net: NetName=VCC Pin=R13-1
+Added Pin To Net: NetName=NetC14_1 Pin=R13-2
+Added Pin To Net: NetName=GND Pin=R15-2
+Added Pin To Net: NetName=NetC14_1 Pin=Y1-1
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=NetC15_2 Pin=R2-2
+Added Pin To Net: NetName=NetC15_2 Pin=R8-2
+Added Net: Name=NetC15_2
+Added Pin To Net: NetName=NetC17_2 Pin=C17-2
+Added Pin To Net: NetName=NetC17_2 Pin=Q1-1
+Added Pin To Net: NetName=NetC17_2 Pin=R12-2
+Added Pin To Net: NetName=NetC17_2 Pin=Y1-2
+Added Net: Name=NetC17_2
+Added Pin To Net: NetName=NetC18_2 Pin=C18-2
+Added Pin To Net: NetName=NetC18_2 Pin=R14-2
+Added Pin To Net: NetName=NetC18_2 Pin=R15-1
+Added Net: Name=NetC18_2
+Added Pin To Net: NetName=NetInd1_2 Pin=Ind1-2
+Added Pin To Net: NetName=NetInd1_2 Pin=R14-1
+Added Net: Name=NetInd1_2
+Added Member To Class: ClassName=Sintetizador_BA_Analog Member=Component C18 Capacitor
+Added Member To Class: ClassName=Sintetizador_BA_Analog Member=Component Ind1 Ind2
+Added Member To Class: ClassName=Sintetizador_BA_Analog Member=Component R14 Resistor
+Added Member To Class: ClassName=Sintetizador_BA_Analog Member=Component R15 Resistor

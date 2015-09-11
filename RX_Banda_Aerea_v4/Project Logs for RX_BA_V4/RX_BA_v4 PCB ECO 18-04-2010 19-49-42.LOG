@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=GND Pin=C16-2
+Removed Pin From Net: NetName=RF_FILT Pin=Ind1-2
+Removed Pin From Net: NetName=NetC31_2 Pin=U2-1
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Pin From Net: NetName=GND Pin=U2-3
+Removed Pin From Net: NetName=RF_FILT Pin=U2-4
+Removed Pin From Net: NetName=GND Pin=U2-5
+Change Component Footprint: Designator=Q1 Old Footprint=SOT23_N New Footprint=SOT-23
+Change Component Footprint: Designator=Q4 Old Footprint=SOT23_N New Footprint=SOT-23
+Change Component Footprint: Designator=Q5 Old Footprint=SOT23_N New Footprint=SOT-23
+Change Component Footprint: Designator=Q8 Old Footprint=SOT23_N New Footprint=SOT-23
+Change Component Footprint: Designator=Q9 Old Footprint=SOT23_N New Footprint=SOT-23
+Change Component Footprint: Designator=Q10 Old Footprint=SOT23_N New Footprint=SOT-23
+Change Component Footprint: Designator=Q11 Old Footprint=SOT23_N New Footprint=SOT-23
+Change Component Footprint: Designator=Q12 Old Footprint=SOT23_N New Footprint=SOT-23
+Change Component Footprint: Designator=Q13 Old Footprint=SOT23_N New Footprint=SOT-23
+Change Component Footprint: Designator=Q3 Old Footprint=SOT143_N New Footprint=SOT-143
+Added Component: Designator=Q14(SOT-23)
+Added Component: Designator=R61(2012[0805])
+Added Component: Designator=R62(2012[0805])
+Added Pin To Net: NetName=NetC31_2 Pin=Q14-1
+Added Pin To Net: NetName=GND Pin=Q14-2
+Added Pin To Net: NetName=RF_FILT Pin=Q14-3
+Added Pin To Net: NetName=RF_FILT Pin=R6-2
+Added Pin To Net: NetName=RF_FILT Pin=R61-1
+Added Pin To Net: NetName=NetC31_2 Pin=R61-2
+Added Pin To Net: NetName=NetC31_2 Pin=R62-1
+Added Pin To Net: NetName=GND Pin=R62-2
+Added Class: Name=AmpliRF

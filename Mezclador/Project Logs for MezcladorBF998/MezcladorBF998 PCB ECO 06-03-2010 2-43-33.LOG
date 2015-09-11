@@ -1,0 +1,12 @@
+Added Component: Designator=E1(PIN1)
+Added Component: Designator=R14(2012[0805])
+Added Component: Designator=R15(2012[0805])
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=MIXER_OUT Pin=R15-1
+Added Pin To Net: NetName=NetE1_1 Pin=E1-1
+Added Pin To Net: NetName=NetE1_1 Pin=R14-2
+Added Pin To Net: NetName=NetE1_1 Pin=R15-2
+Added Net: Name=NetE1_1
+Added Member To Class: ClassName=FI2_BF998 Member=Component E1 Antenna
+Added Member To Class: ClassName=FI2_BF998 Member=Component R14 Res Semi
+Added Member To Class: ClassName=FI2_BF998 Member=Component R15 Res Semi

@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: FI_10_7.PcbDoc   27/09/2010  20:56:31
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : FI_10_7.TXT
+EIA File   : FI_10_7.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        23.62mil (0.59995mm)     Round          8                286.26 Inch (7271.09 mm)
+T2        31.5mil (0.8001mm)       Round          9                285.22 Inch (7244.63 mm)
+T3        35.43mil (0.89992mm)     Round          5                286.02 Inch (7264.84 mm)
+---------------------------------------------------------------------------
+Totals                                            22               857.50 Inch (21780.56 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

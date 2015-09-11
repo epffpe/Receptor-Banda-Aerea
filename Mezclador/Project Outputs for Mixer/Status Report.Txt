@@ -1,0 +1,7 @@
+   Printed Document[mixer.PcbDoc]
+   Printed Document[mixer.PcbDoc]
+
+Files Generated   : 0
+Documents Printed : 2
+
+Finished Output Generation At 22:12:42 On 19/02/2010

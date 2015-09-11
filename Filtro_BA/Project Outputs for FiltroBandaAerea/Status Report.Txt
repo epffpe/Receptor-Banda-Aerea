@@ -1,0 +1,7 @@
+   Printed Document[filtroBA.PcbDoc]
+   Printed Document[filtroBA.PcbDoc]
+
+Files Generated   : 0
+Documents Printed : 2
+
+Finished Output Generation At 20:17:55 On 13/02/2010

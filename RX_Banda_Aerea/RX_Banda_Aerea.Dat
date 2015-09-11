@@ -1,0 +1,25 @@
+Field=LibRef~String~LibRef~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=Description~String~Description~165|Field=Comment~String~Comment~100|Field=Quantity~Integer~Quantity~100|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~RX_Banda_Aerea.PrjPCB|ReportField=ProjectFullPath~D:\Designs\Protel\RX_Banda_Aerea\RX_Banda_Aerea.PrjPCB|ReportField=Title~Bill of Materials For Project [RX_Banda_Aerea.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~133|ReportField=ReportTime~3:47:44|ReportField=ReportDate~31/03/2010|ReportField=ReportDateTime~31/03/2010 3:47:44|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~31/03/2010|ReportField=CurrentTime~3:37:37|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\Designs\Protel\RX_Banda_Aerea\Alimentacion.SchDoc|ReportField=DocumentName~Alimentacion.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~22/03/2010|ReportField=Organization~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~RX_Banda_Aerea.PrjPCB|ReportField=DataSourceFullPath~D:\Designs\Protel\RX_Banda_Aerea\RX_Banda_Aerea.PrjPCB
+Cap Pol3|C1, C3, C4, C5, C6, C7, C8, C9, C10, C11, C13, C14, C15, C17, C18, C19, C20, C21, C22, C23, C24, C25, C26, C27, C28, C29, C31, C32, C33, C34, C35, C36, C37, C38, C39, C40, C41, C42, C43, C44, C45, C46, C47, C48, C50, C51, C53, C55, C57, C58, C59, C60, Cp1|C0805|Polarized Capacitor (Surface Mount)|Cap Pol3|53
+Cap Pol1|C2, C16, C30, C49, C52, C54|B|Polarized Capacitor (Radial)|Cap Pol1|6
+Cap Semi|C12, C56|C1206|Capacitor (Semiconductor SIM Model)|Cap Semi|2
+BAS70-04W|D1, D2|SOT323_N|Schottky Barrier Double Diode|BAS70-04W|2
+Ind2|Ind1|Ind_5mm||Ind2|1
+Ind2|Ind2|Ind_4mm||Ind2|1
+Ind2|Ind3|NTH12_2||Ind2|1
+Inductor|L1, L2, L3, L4|3261|Inductor|Inductor|4
+Res1|L5|AXIAL-0.3|Resistor|Res1|1
+Header 3|P1, P4|HDR1X3|Header, 3-Pin|Header 3|2
+Header 2|P2, P3, P6|HDR1X2|Header, 2-Pin|Header 2|3
+BFS17|Q1, Q2|SOT23_N|NPN 1 GHz Wideband Transistor|BFS17|2
+PMBF4391|Q3, Q4, Q5, Q6, Q7|SOT23_N|N-channel Silicon Junction Field-effect Transistor|PMBF4391|5
+Res Semi|R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R22, R23, R24, R25, R26, R27, R28, R29, R30, R31, R32, R33, R34, R?|2012[0805]|Semiconductor Resistor|Res Semi|34
+Pot|R21|Potenciometro||Pot|1
+Transformador_Toroide|T1, T2, T3|NTH12_4||Toroide|3
+SA602A|U1, U3|SA602|Mezclador 500MHz|SA602|2
+uPC2710TB|U2|UPC2710TB2||uPC2710TB|1
+LM386N-1|U4|N08E|Low Voltage Audio Power Amplifier|LM386N-1|1
+TL081CP|U5|626-05|JFET-Input Operational Amplifier|TL081CP|1
+LM78L05ACZ|U6|Z03A|3-Terminal Positive Regulators|LM78L05ACZ|1
+ECS-35-17-4-3IL|Y1|HC-49US|Crystal Oscillator, 3rd In-Line Lead Version|ECS-35-17-4-3IL|1
+ECS-10-13-1|Y2|HC-49U|Crystal Oscillator|ECS-10-13-1|1
+ECS-49-20-1|Y3, Y4, Y5, Y6|HC-49U|Crystal Oscillator|ECS-49-20-1|4

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=OL Pin=C7-1
+Added Component: Designator=C23(0805_CAP)
+Added Pin To Net: NetName=NetC4_1 Pin=C23-2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=C23-1
+Added Net: Name=NetC7_1
+Added Member To Class: ClassName=Sintetizador_BA Member=Component C23 Capacitor

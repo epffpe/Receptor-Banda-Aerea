@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=FIN Pin=U3-1
+Added Component: Designator=C20(0805_CAP)
+Added Pin To Net: NetName=FIN Pin=C20-1
+Added Pin To Net: NetName=NetC20_2 Pin=C20-2
+Added Pin To Net: NetName=NetC20_2 Pin=U3-1
+Added Net: Name=NetC20_2
+Added Member To Class: ClassName=Sintetizador_BA Member=Component C20 Capacitor

@@ -1,0 +1,18 @@
+Added Component: Designator=C12(C0805)
+Added Component: Designator=D1(SMC)
+Added Component: Designator=P2(HDR1X2)
+Added Component: Designator=R2(2012[0805])
+Added Pin To Net: NetName=NetC5_2 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=D1-2
+Added Pin To Net: NetName=NetC12_2 Pin=R2-2
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetP2_2 Pin=P2-2
+Added Pin To Net: NetName=NetP2_2 Pin=R2-1
+Added Net: Name=NetP2_2
+Added Member To Class: ClassName=Mixer Member=Component C12 Cap Pol3
+Added Member To Class: ClassName=Mixer Member=Component D1 Diode
+Added Member To Class: ClassName=Mixer Member=Component P2 Header 2
+Added Member To Class: ClassName=Mixer Member=Component R2 Res Semi
